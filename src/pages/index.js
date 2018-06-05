@@ -8,10 +8,12 @@ const Container = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 `
 
 export default () => (
   <Container>
-    <div>Hello Andshape!</div>
+    <div>Website under construction!</div>
   </Container>
 )
