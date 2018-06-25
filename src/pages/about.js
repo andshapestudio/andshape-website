@@ -7,8 +7,8 @@ export default () => (
   <App>
     <Container>
       <Menu />
-      <h1>Home</h1>
-      <p>Website under construction!</p>
+      <h1>About</h1>
+      <p>This is the about page</p>
     </Container>
   </App>
 )
