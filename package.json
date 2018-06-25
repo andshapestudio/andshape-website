@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "description": "Gatsby hello world starter",
+  "name": "andshape-website",
+  "description": "The Andshape S.R.L. Website",
   "license": "MIT",
   "scripts": {
     "precommit": "lint-staged",
